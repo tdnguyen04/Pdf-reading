@@ -1,0 +1,6 @@
+pypdf
+langchain
+openai
+tiktoken
+faiss-cpu
+unstructured
